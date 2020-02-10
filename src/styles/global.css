@@ -2,3 +2,7 @@ body,
 div#___gatsby {
   background: #faf0fd;
 }
+
+img.gatsby-resp-image-image {
+  object-fit: contain;
+}
